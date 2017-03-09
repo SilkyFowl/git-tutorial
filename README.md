@@ -1,2 +1,4 @@
 # Gitチュートリアル
- - featuer-A
+
+- featuer-A
+- fix-B
